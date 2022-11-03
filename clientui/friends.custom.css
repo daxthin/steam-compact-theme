@@ -1,0 +1,52 @@
+
+.friendsListSectionTitle {
+    background: rgb(57, 67, 75);
+}
+
+.insetshadow_FriendsListInsetShadowCtn_v6onE {
+    display: none;
+}
+  
+.friendlistListContainer {
+    background: rgb(17, 20, 22);
+}
+
+/* friends settings header */
+.friendListHeaderContainer {
+    background: rgb(39, 46, 51);
+}
+
+.activeTab {
+    background: rgb(57, 67, 75);
+    box-shadow: 0px -2px 3px 0px rgba(0,0,0,.0);
+    color: #b7ccd5;
+}
+
+.friendListFooter {
+    background: rgb(39, 46, 51);
+}
+
+/* chats */
+.ChatTabs.HasWindowControls {
+    padding-top: 0px;
+}
+
+/* tabs */
+.chattabs_ChatTab_2Vrcp {
+    width: 189px;
+    height: 36px;
+    z-index: 2;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 0px 12px 0px 10px;
+    border: 0;
+    box-sizing: border-box;
+    transition: padding 200ms ease-out;
+}
+
+.chatentry_chatEntryControls_1WEr4 {
+
+    box-shadow: inset 0px 0px 4px transparent;
+
+}
